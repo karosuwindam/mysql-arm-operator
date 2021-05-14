@@ -1,1 +1,3 @@
 #arm用のmysqlを起動させるだけの、opertorを作成する
+
+opertor-sdkでの開発はできないため凍結
