@@ -1,0 +1,1 @@
+#arm用のmysqlを起動させるだけの、opertorを作成する
